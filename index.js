@@ -17,9 +17,7 @@ function myFunction() {
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-
-
-
+`nestedFunction can access the variable 'internal' because they are within the same function scope; nestedFunction is nested within myFunction, which defines 'internal'.`
 
 /* 🚀🚀🚀 Task 2: Counter 🚀🚀🚀 */
 /* Use summation to do the following:
